@@ -19,10 +19,29 @@
   <a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="ElectronJS" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> -->
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> -->
 
+
+
+
+
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> -->
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> -->
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> -->
 
   </p>
+<h2 align="center">GitHub Stats:</h3>
 
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit404butfound&bg_color=130F40&color=7a7adb&line=2234ae&point=FFFFFF" /></a> -->
+
+</div>
 <!--
 **corbaz/corbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
