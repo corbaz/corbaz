@@ -1,10 +1,12 @@
 ### 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 Julio Cesar Corbaz
+
 <div class="flex" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" width="70" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="70" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png" width="70" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" width="70" />
 </div>
+
 #### julio.corbaz@gmail.com
 
 <h2 align="center">Languages and Tools:</h3>
